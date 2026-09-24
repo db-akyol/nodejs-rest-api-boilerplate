@@ -133,7 +133,7 @@ Tüm yollar `/api` öneki altındadır.
 
 ```bash
 # 1. Şablonu klonlayın
-git clone https://github.com/db-akyol/template_node.git projenizin-adi
+git clone https://github.com/db-akyol/nodejs-rest-api-boilerplate.git projenizin-adi
 cd projenizin-adi
 
 # 2. Bağımlılıkları kurun
